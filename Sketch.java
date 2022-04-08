@@ -7,13 +7,13 @@ import processing.core.PApplet;
 
 public class Sketch extends PApplet {
 
-  float circleX;
-  float circleY;
+    float circleX;
+    float circleY;
 
-  int intSeconds;
-  int intMinutes;
-  int intHours;
-  String digitalClock;
+    int intSeconds;
+    int intMinutes;
+    int intHours;
+    String digitalClock;
 
   public void settings() {
 	  
