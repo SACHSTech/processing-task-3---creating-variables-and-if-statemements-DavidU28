@@ -1,6 +1,7 @@
  /**
   * The program Sketch.java draws a flower in a random location and based on the quadrant the flower is in, the progam will change the 
   * colour of the backround. Red for quadrant 1, blue for quadrant 2, green for quadrant 3, and purple for quadrant 4.
+  * @author: D.Ursu
   *
   */
 
