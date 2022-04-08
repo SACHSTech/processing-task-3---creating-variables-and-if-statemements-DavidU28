@@ -25,7 +25,7 @@ public class Sketch extends PApplet {
     intMinutes = minute(); 
     intHours = hour();
     
-    }
+  }
 
   /** 
   * Called once at the beginning of execution.  Add initial set up
