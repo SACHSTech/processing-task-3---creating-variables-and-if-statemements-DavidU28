@@ -115,6 +115,5 @@ public class Sketch extends PApplet {
     textSize(15);
     text(digitalClock, 340, 390);
  
-   }
-  
+  }
 }
